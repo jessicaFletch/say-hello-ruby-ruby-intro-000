@@ -6,5 +6,5 @@ end
 
 
 
-say-hello (Kent Black)
+say_hello (Kent Black)
 say_hello()
